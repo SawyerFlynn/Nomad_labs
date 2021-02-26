@@ -1,4 +1,4 @@
-# Python Programming
+# Python Programming -- Keep your sunny side up!
 
 Here you can find the labs for our CodingNomads online Python Programming course.
 
